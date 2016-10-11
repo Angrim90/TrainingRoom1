@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="lib" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://C:/Program Files/Java/jdk1.8.0_60/lib" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://C:/Program Files/Java/jdk1.8.0_60/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
